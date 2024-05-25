@@ -2,7 +2,7 @@
 
 Para configurar el proyecto, puedes descargar el proyecto (o si tienes problemas con un launcher que hiciste, puedes usar varias partes de este código) :D
 
-> **[Si quieres iniciar a desarrollar un launcher para tu GDPS, es necesario que leas todo esto] [y tienes preguntas, problemas y/o sugerencias, puedes hacerlas [dando clic aquí](https://github.com/ElParaguasXD/GDPS-Launcher/issues)]**
+> **[Si quieres iniciar a desarrollar un launcher para tu GDPS, es necesario que leas todo esto y si tienes preguntas, problemas y/o sugerencias, puedes hacerlas [dando clic aquí](https://github.com/ElParaguasXD/GDPS-Launcher/issues)]**
 
 ## I. 
 
