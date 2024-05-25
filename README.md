@@ -6,7 +6,7 @@ Para configurar el proyecto, puedes descargar el proyecto (o si tienes problemas
 
 Aquí tienes los capítulos (Por así decirlo) de como hacer el launcher :D
 
-> [I. Diseño](/design.md) | [II. Código](/code.md) | [III. Compilación y/o pruebas](/build-and-test.md) | [IV. Solución de errores](/troubleshoot.md)
+> [I. Diseño y código](/design.md) | [II. Compilación y/o pruebas](/build-and-test.md) | [III. Solución de errores](/troubleshoot.md)
 
 ## Introducción
 
