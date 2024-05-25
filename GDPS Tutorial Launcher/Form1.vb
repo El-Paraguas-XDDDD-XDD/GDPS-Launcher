@@ -16,7 +16,7 @@ Public Class Form1
         startInfo.WorkingDirectory = gdpsFolderPath
 
         ' Inicia el proceso (en este caso, YOURGDPS.exe)
-        ' Cuando el proceso no inicie correctamente, va a aparecer un MessageBox
+        ' Cuando el proceso no inicie correctamente o no se encuentre, va a aparecer un MessageBox
         ' Es recomendado dejar esta parte del código tal y como está para evitar errores
 
         Try
