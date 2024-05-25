@@ -8,9 +8,7 @@ Si quieres programar una acción a un botón o una imagen, tienes que dar doble 
 
 ![Diseño](/gif3.gif)
 
-> Por ejemplo: Quiero eliminar los botones "Tools, Hacks y Demonlist" porque me parecen feos
-> Entonces lo elimino (también elimino el código)
-> (Esto no genera problema en VB.Net (Visual Basic) pero recomiendo hacerlo para que no hayan problemas [generalmente es para que no haya código basura])
+## I.I. Eliminación de botones, etc...
 
 ![no](/no.png)
 
@@ -19,3 +17,7 @@ Si quieres programar una acción a un botón o una imagen, tienes que dar doble 
 ![no](/no2.png)
 
 > Ahora, es seguro borrar los botones (aunque puedes hacerlo al revez [Primero eliminas los botones, luego el código de estos])
+
+> Por ejemplo: Quiero eliminar los botones "Tools, Hacks y Demonlist" porque me parecen feos
+> Entonces lo elimino (también elimino el código)
+> (Esto no genera problema en VB.Net (Visual Basic) pero recomiendo hacerlo para que no hayan problemas [generalmente es para que no haya código basura])
