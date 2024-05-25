@@ -4,6 +4,6 @@ El diseño (o la interfaz) es todo lo que está en la ventana (Botones, imagenes
 
 Puedes cambiar, eliminar o añadir varias cosas (pero ten en cuenta que al eliminar un botón que ya esté en el código puede generar problemas)
 
-![Diseño](/gif.gif)
+![Diseño](/gif3.gif)
 
 > Por ejemplo: Quiero eliminar los botones "Tools, Hacks y Demonlist" porque me parecen feos
