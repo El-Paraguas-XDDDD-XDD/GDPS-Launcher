@@ -4,14 +4,6 @@ Para configurar el proyecto, puedes descargar el proyecto (o si tienes problemas
 
 > **[Si quieres iniciar a desarrollar un launcher para tu GDPS, es necesario que leas todo esto y si tienes preguntas, problemas y/o sugerencias, puedes hacerlas [dando clic aquí](https://github.com/ElParaguasXD/GDPS-Launcher/issues)]**
 
-## I. 
+Aquí tienes los capítulos (Por así decirlo) de como hacer el launcher :D
 
-## II. El código
-
-## III. Pruebas y/o compilación del launcher
-
-Para probar el 
-
-![Demostración de compilar el proyecto o probarlo](/gifs/gif.gif)
-
-## IV. Solución de errores
+> [I. Diseño](/design.md) | [II. Código](/code.md) | [III. Compilación y/o pruebas](/build-and-test.md) | [IV. Solución de errores](/troubleshoot.md)
